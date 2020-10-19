@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Activity02\bin\Debug\Activity02.exe.config
+C:\Users\Lenovo\source\repos\Activity02\bin\Debug\Activity02.exe
+C:\Users\Lenovo\source\repos\Activity02\bin\Debug\Activity02.pdb
+C:\Users\Lenovo\source\repos\Activity02\obj\Debug\Activity02.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Activity02\obj\Debug\Activity02.StringFormatException.resources
+C:\Users\Lenovo\source\repos\Activity02\obj\Debug\Activity02.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Activity02\obj\Debug\Activity02.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Activity02\obj\Debug\Activity02.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Activity02\obj\Debug\Activity02.exe
+C:\Users\Lenovo\source\repos\Activity02\obj\Debug\Activity02.pdb
